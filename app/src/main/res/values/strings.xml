@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IF1-10119038-RachmanAldiansyah</string>
+    <string name="ini_adalah_splash_screen">Ini Adalah Splash Screen</string>
+    <string name="ini_adalah_main_activity">Ini adalah Main Activity</string>
+    <string name="codingsplashlogo">CodingSplashLogo</string>
+    <string name="codingloginlogo">CodingLoginLogo</string>
+    <string name="login_label">Login Label</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="codingdashboardlogo">codingdashboardlogo</string>
+    <string name="full_name">Full Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="daftar">Daftar</string>
+    <string name="codingregisterlogo">codingregisterlogo</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="register_account">Register Account</string>
+    <string name="kembali">Kembali</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="profil_diri">Profil Diri</string>
+    <string name="rachman_aldiansyah">Rachman Aldiansyah</string>
+    <string name="nim">NIM</string>
+    <string name="_10119038">10119038</string>
+    <string name="kelas">Kelas</string>
+    <string name="if_1">IF-1</string>
+    <string name="mahasiswa_program_studi_teknik_informatika_universitas_komputer_indonesia">Mahasiswa Program Studi Teknik Informatika Universitas Komputer Indonesia</string>
+    <string name="deskripsi_diri">Deskripsi Diri</string>
+    <string name="kembali_ke_dashboard">kembali ke dashboard</string>
+    <string name="foto_pribadi">Foto Pribadi</string>
+</resources>
